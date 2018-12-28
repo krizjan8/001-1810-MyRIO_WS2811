@@ -1,0 +1,9 @@
+[cRIO9022]
+cRIO9022 = "192.168.1.22"
+
+[My Computer]
+My Computer = "10.0.1.24"
+
+[RT Single-Board RIO Target]
+RT Single-Board RIO Target = "0.0.0.0"
+
